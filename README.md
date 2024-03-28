@@ -1,0 +1,1 @@
+Learning how to use go with htmx to build simple application
